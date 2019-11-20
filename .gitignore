@@ -1,0 +1,7 @@
+node_modules/
+client/node_modules
+# Since default.json will not be pushed to Heroku
+config/default.json 
+
+#Editors
+.vscode
